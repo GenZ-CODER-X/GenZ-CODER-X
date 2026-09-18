@@ -40,6 +40,27 @@
 🚀 Learning primarily by **building real systems**
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/GenZ-CODER-X/buy-or-wait-ai-financial-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GenZ-CODER-X&repo=buy-or-wait-ai-financial-agent&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/GenZ-CODER-X/AbuseRing-Sentinel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GenZ-CODER-X&repo=AbuseRing-Sentinel&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/GenZ-CODER-X/Banking-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GenZ-CODER-X&repo=Banking-API&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
 
 # 🛠️ Tech Stack
 
